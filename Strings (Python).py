@@ -1,6 +1,9 @@
 #Strings
 
 
+from typing import type_check_only
+
+
 first_name = 'Dennis \n'
 print ()
 last_name = 'Micheal'
@@ -49,4 +52,11 @@ output = 'Hello, {0} {1}'.format (first_name, last_name)
 output = f'Hello, {first_name}  {last_name}'
 
 print (output)
+
+
+weather = input('The weather is quite cloudy and cold today')
+
+if weather = True
+    else: 'Include comment'
+finally = type_check_only
 
